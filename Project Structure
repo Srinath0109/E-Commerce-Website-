@@ -1,0 +1,13 @@
+ECommerce/
+│── backend/               # Django Backend
+│   │── ecommerce/         # Main Django App
+│   │   │── models.py      # Database Models
+│   │   │── views.py       # API Views
+│   │   │── urls.py        # URL Routing
+│   │── manage.py          # Django Entry Point
+│   │── db.sqlite3         # Database (if using SQLite)
+│── frontend/              # React Frontend
+│   │── src/               # Source Code
+│   │   │── components/    # UI Components
+│   │   │── App.js         # Main App Component
+│
